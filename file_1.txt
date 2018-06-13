@@ -1,0 +1,3 @@
+Hello World!
+This class is learning GitHub.
+I have InternPalooza after this!
